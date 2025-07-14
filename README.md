@@ -1,6 +1,7 @@
 This repository is just an exercise.<br>
 but if you want to run it :
 # run my project
+install nodejs, golang then:
 1) first clone:
 ```
 git clone https://github.com/MohammadShool/golang_react_todo_application.git
