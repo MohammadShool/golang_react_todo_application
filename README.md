@@ -1,3 +1,5 @@
+# screenshot
+![golang react todo application](./screenshot.png)<br>
 This repository is just an exercise.<br>
 but if you want to run it :
 # run my project
